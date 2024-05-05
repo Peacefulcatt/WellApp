@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705081120217",
+    "project_id": "ptai-69b9c",
+    "storage_bucket": "ptai-69b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705081120217:android:d580fbbc2b85046cd635c8",
+        "android_client_info": {
+          "package_name": "com.example.login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcz3Odr_yvXsqT44TCRiXJ6UviazFSutI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
